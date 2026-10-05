@@ -13,7 +13,7 @@
 
 ---
 
-Abdeen Industries is a software development and cybersecurity company founded by Jaafar Abdeen. We’re building a home for work that brings these two disciplines together: making software useful, and understanding what it takes to keep it secure.
+Abdeen Industries is a software development and cybersecurity company. We’re building a home for work that brings these two disciplines together: making software useful, and understanding what it takes to keep it secure.
 
 ## Sites
 
