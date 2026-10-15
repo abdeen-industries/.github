@@ -13,7 +13,7 @@
 
 ---
 
-Abdeen Industries is a software development and cybersecurity company. We’re building a home for work that brings these two disciplines together: making software useful, and understanding what it takes to keep it secure.
+Abdeen Industries is a software development and cybersecurity company. We started it because building good software and securing it shouldn’t be separate jobs: you can’t write reliable code without understanding how it might fail or be misused.
 
 ## Sites
 
